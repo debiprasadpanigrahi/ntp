@@ -1,0 +1,18 @@
+{
+  "name": "dppanigr-ntp",
+  "version": "0.1.0",
+  "author": "dppanigr",
+  "summary": "This module is to configure ntp.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/debiprasadpanigrahi/ntp.git",
+  "project_page": "https://github.com/debiprasadpanigrahi/ntp.git",
+  "issues_url": "https://github.com/debiprasadpanigrahi/ntp/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
